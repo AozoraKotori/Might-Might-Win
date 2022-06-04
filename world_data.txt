@@ -1,11 +1,11 @@
-[levels]
-rolling_levelid=6
-levelid=6
-
 [general]
-firstlevel=Level_000
-author=Aozora Kotori
-start=MAP
-name=Might Might Win
 themecount=0
+name=Might Might Win
+start=map
+author=Aozora Kotori
+firstlevel=level_00
+
+[levels]
+levelid=10
+rolling_levelid=10
 
